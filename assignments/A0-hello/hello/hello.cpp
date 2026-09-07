@@ -8,11 +8,15 @@ Algorithm Steps:
 */
 
 #include <iostream>
+#include <print>
+
 using namespace std;
 
 // entry function; must have one main
-int main() { // main function
-    cout << "Hello World!" << std::endl;
+int main()
+{ // main function
+    // cout << "Hello World!" << std::endl;
+    print("Hello World!\n"); // output "Hello World!" on the console/standard output
     // must return 0; telling the OS that this program was successful!
     return 0;
 }

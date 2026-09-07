@@ -1,7 +1,7 @@
-accepted: 3
+accepted: 4
 cpu_limit: ''
 difficulty: '1.2 '
 mem_limit: None
 problemid: hello
-submissions: 4
+submissions: 5
 title: Hello World!
